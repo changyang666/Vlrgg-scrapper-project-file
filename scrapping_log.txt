@@ -1,0 +1,509 @@
+scrapping data for Raidiant Academy 2024: March...fail, continue with next event...
+
+scrapping data for Champions Tour 2024: Americas Kickoff...done
+scrapping data for Champions Tour 2024: China Kickoff...done
+scrapping data for Champions Tour 2024: EMEA Kickoff...done
+scrapping data for Community Gaming SERIES #12...fail, continue with next event...
+
+scrapping data for Champions Tour 2024: Pacific Kickoff...done
+scrapping data for Game Changers 2024 LATAM: Open Qualifiers...error occurs
+error occurs
+done
+scrapping data for Project V 2024 Division 1 - Split 1: Stage 1...done
+scrapping data for VALORANT Open Tour France 2024: Stage 1...done
+scrapping data for VALORANT East: United: Season 3: Split 1 - Weekly Cups...done
+scrapping data for Challengers League 2024 North America: Qualifiers...error occurs
+error occurs
+done
+scrapping data for Corsair Championship 2024...fail, continue with next event...
+
+scrapping data for Game Changers 2024: EMEA Kickoff...error occurs
+error occurs
+error occurs
+done
+scrapping data for The Funhaver Invitational - Lock N Load Pt2...error occurs
+done
+scrapping data for Balıkesir DGM VALORANT Tournament January 24...fail, continue with next event...
+
+scrapping data for The Esports Club: The Arena Championship 2024...fail, continue with next event...
+
+scrapping data for The Funhaver Invitational - Lock N Load...done
+scrapping data for FlyQuest Trailblazer Tournament - Championship...done
+scrapping data for Ludwig x Tarik Invitational 2...done
+scrapping data for Predator League Asia Pacific 2024...fail, continue with next event...
+
+scrapping data for Harbor's Crest #3...fail, continue with next event...
+
+scrapping data for Superdome 2023: Egypt...fail, continue with next event...
+
+scrapping data for VALORANT Super Cup...fail, continue with next event...
+
+scrapping data for ESA Open Fire All Stars 2023...fail, continue with next event...
+
+scrapping data for Gamemode 2023...done
+scrapping data for Cloudy Tournament: Malaysia and Singapore Rivalry...fail, continue with next event...
+
+scrapping data for Champions Tour 2023 China: Ascension...fail, continue with next event...
+
+scrapping data for TESFED Turkish Cup - 2023...fail, continue with next event...
+
+scrapping data for Claro Gaming Spike Cup - Showdown...done
+scrapping data for Mandatory.gg Cup #3...fail, continue with next event...
+
+scrapping data for Dreamhack Atlanta Fall Open 2023...done
+scrapping data for Fighter's Cup - Week 6...fail, continue with next event...
+
+scrapping data for The Cozy Clash...fail, continue with next event...
+
+scrapping data for Fase Final Circuito Tormenta 2023 S2...done
+scrapping data for Convergence 2023...fail, continue with next event...
+
+scrapping data for Copa Bravíssima...done
+scrapping data for Harbor's Crest #2...fail, continue with next event...
+
+scrapping data for Spike Nations #4...fail, continue with next event...
+
+scrapping data for HereticsXP...fail, continue with next event...
+
+scrapping data for FlyQuest Trailblazer Tournament - December...fail, continue with next event...
+
+scrapping data for Dubai Police Esports Tournament 2023...done
+scrapping data for College VALORANT West: Fall 2023...fail, continue with next event...
+
+scrapping data for The Funhaver Invitational LAN...error occurs
+fail, continue with next event...
+
+scrapping data for Taça das Minas #7...done
+scrapping data for College VALORANT East: Fall 2023...done
+scrapping data for College VALORANT North: Fall 2023...done
+scrapping data for College VALORANT South: Fall 2023...fail, continue with next event...
+
+scrapping data for Sean Gares OFF//SEASON Showdown...done
+scrapping data for Stryda VALORANT Nordic Clash...fail, continue with next event...
+
+scrapping data for AfreecaTV Valorant League...fail, continue with next event...
+
+scrapping data for Norwegian Valorant League Høsten 2023...fail, continue with next event...
+
+scrapping data for Geek Lounge Star League: Valorant Invitational...fail, continue with next event...
+
+scrapping data for NECC Legends: Fall 2023...done
+scrapping data for Riot Games ONE 2023...fail, continue with next event...
+
+scrapping data for Game Changers 2023 Championship: São Paulo...fail, continue with next event...
+
+scrapping data for Esports Series Madrid...done
+scrapping data for BEACON 2023 Open Split 2: Finals...fail, continue with next event...
+
+scrapping data for PROJECT V 2023: Endboss Clash - Final Scouting Cup...fail, continue with next event...
+
+scrapping data for Harbor's Crest #1...fail, continue with next event...
+
+scrapping data for NACE Starleague - Fall 2023...done
+scrapping data for Intel Arabian Cup Playground 2023: Season 3...fail, continue with next event...
+
+scrapping data for Circuito Tormenta: La Copa Radiante...fail, continue with next event...
+
+scrapping data for Sakura Cup: November...fail, continue with next event...
+
+scrapping data for Cross-Fire Latin America South...done
+scrapping data for RTBF iXPé - Online Sessions 2023...fail, continue with next event...
+
+scrapping data for Lioness Cup 2023...done
+scrapping data for Challengers 2023 Portugal: Drift...fail, continue with next event...
+
+scrapping data for Luxe Invitational Europe...done
+scrapping data for ESL Clash of Nations 2023...fail, continue with next event...
+
+scrapping data for China Evolution Series Act 3: Heritability...fail, continue with next event...
+
+scrapping data for Esportsmaker Spike Ladies #7...done
+scrapping data for Red Bull Campus Clutch 2023 - World Finals...fail, continue with next event...
+
+scrapping data for FlyQuest Trailblazer Tournament - November...fail, continue with next event...
+
+scrapping data for The Funhaver Invitational - Qualifier 4...done
+scrapping data for Connecta The Ultimate Battle...fail, continue with next event...
+
+scrapping data for Cross-Fire Latin America North...fail, continue with next event...
+
+scrapping data for Balıkesir DGM VALORANT Tournament...fail, continue with next event...
+
+scrapping data for Summoner Society X Game Changers 2023 Oceania...fail, continue with next event...
+
+scrapping data for Predator League Indonesia 2024...fail, continue with next event...
+
+scrapping data for The Esports Club: The Arena Championship 2023...fail, continue with next event...
+
+scrapping data for University Challengers Arena...done
+scrapping data for Predator League Oceania 2024...fail, continue with next event...
+
+scrapping data for Knights Monthly Gauntlet 2023: November...fail, continue with next event...
+
+scrapping data for Sentinels-Tarik Showmatch...done
+scrapping data for The Funhaver Invitational - Qualifier 3.5...error occurs
+error occurs
+fail, continue with next event...
+
+scrapping data for Fighter's Cup - Week 2...fail, continue with next event...
+
+scrapping data for Superdome 2023: Colombia...done
+scrapping data for Community Gaming SERIES #10...fail, continue with next event...
+
+scrapping data for Predator League Philippines 2024...fail, continue with next event...
+
+scrapping data for Valorant Indonesia CONNEXT 2023...fail, continue with next event...
+
+scrapping data for NAVI VALORANT Autumn Cup 2023...done
+scrapping data for Hype Up Tour Japan...done
+scrapping data for VALORANT East: United: Season 2: Stage 3 - Finals...done
+scrapping data for The Funhaver Invitational - Qualifier 3...fail, continue with next event...
+
+scrapping data for Multiplatform Esports Game 2023...fail, continue with next event...
+
+scrapping data for For Those Who Dare...done
+scrapping data for Showmatch Mãe x Pai...done
+scrapping data for Project V 2023: THE POKAL...done
+scrapping data for Sentinels Invitational...done
+scrapping data for Challengers 2023 Italy: ON // THE BATTLEFIELD...fail, continue with next event...
+
+scrapping data for The Funhaver Invitational - Qualifier 2...fail, continue with next event...
+
+scrapping data for Woohoojin's Sunset Colosseum...fail, continue with next event...
+
+scrapping data for Taça das Minas #6...fail, continue with next event...
+
+scrapping data for Spike Drop: Vegas Heist...fail, continue with next event...
+
+scrapping data for VALORANT East: United: Season 2: Stage 3 - Last Chance Cup...done
+scrapping data for EPIC.LAN #40...done
+scrapping data for Türkiye 100th Anniversary VALORANT Cup Finals...fail, continue with next event...
+
+scrapping data for BBL-FUT 100. Yıl Gösteri Maçı Showmatch...done
+scrapping data for Game Changers 2023 East Asia...done
+scrapping data for China Evolution Series Act 2: Selection...fail, continue with next event...
+
+scrapping data for Golden Goose #16...fail, continue with next event...
+
+scrapping data for A1 eSports VALORANT Cup #4...done
+scrapping data for Underground Womens Cup...fail, continue with next event...
+
+scrapping data for Predator League Singapore 2024...fail, continue with next event...
+
+scrapping data for ACE Double Down...done
+scrapping data for Sakura Cup: October...fail, continue with next event...
+
+scrapping data for G2-Sentinels Showmatch...done
+scrapping data for The Funhaver Invitational - Qualifier 1...fail, continue with next event...
+
+scrapping data for Sentinels Off-Season $5k Bounty Showmatch...done
+scrapping data for Community Gaming SERIES #9...fail, continue with next event...
+
+scrapping data for Knights Monthly Gauntlet 2023: October...error occurs
+done
+scrapping data for Liquid Open 2023: Oceania...done
+scrapping data for Predator League Vietnam 2024...done
+scrapping data for Predator League Japan 2024...done
+scrapping data for Circuito Tormenta: Granada Gaming...done
+scrapping data for Saudi eLeagues 2023: Season 2...done
+scrapping data for FlyQuest Trailblazer Tournament - October...fail, continue with next event...
+
+scrapping data for The A-Games...done
+scrapping data for Game Changers EMEA Contenders Series 3...done
+scrapping data for Argentina Game Show Cup 2023...fail, continue with next event...
+
+scrapping data for Liquid Open 2023: Europe...fail, continue with next event...
+
+scrapping data for Liquid Open 2023: North America...fail, continue with next event...
+
+scrapping data for Challengers 2023 Portugal: OPEN//WATER...fail, continue with next event...
+
+scrapping data for VALORANT East: United: Season 2: Stage 3 - Monthly Cup...done
+scrapping data for Predator League India 2024...done
+scrapping data for Game Changers 2023 Asia Pacific: Elite...error occurs
+done
+scrapping data for Project V 2023: OrcusV2...fail, continue with next event...
+
+scrapping data for Game Changers 2023 China: Qualifier...error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+done
+scrapping data for The Esports Club Challenger Series 10...fail, continue with next event...
+
+scrapping data for Predator League Bangladesh 2024...done
+scrapping data for The Funhaver Invitational...fail, continue with next event...
+
+scrapping data for MCOM Open Invitational...done
+scrapping data for Game Changers 2023 Series III: North America...error occurs
+done
+scrapping data for TEN Global Invitational...fail, continue with next event...
+
+scrapping data for Predator League Thailand 2024...done
+scrapping data for Nerd Street VALORANT Lockdown 3 - Open 1...fail, continue with next event...
+
+scrapping data for Red Bull Double Agent...fail, continue with next event...
+
+scrapping data for Return of The Titans - End of The Chaos Final...done
+scrapping data for Minerva Series: Split 3...done
+scrapping data for Challengers 2023 France: Revolution Coupe de France...fail, continue with next event...
+
+scrapping data for Predator League Malaysia 2024...done
+scrapping data for Golden Goose #15...fail, continue with next event...
+
+scrapping data for Legion Cup 2023...done
+scrapping data for MVT One: Finals...done
+scrapping data for KR Cup...fail, continue with next event...
+
+scrapping data for IGLeague Open Division #3...fail, continue with next event...
+
+scrapping data for Community Gaming SERIES #8...fail, continue with next event...
+
+scrapping data for The Knight's Forge...done
+scrapping data for 2ª Circuito Game On...fail, continue with next event...
+
+scrapping data for TGH x Birds of Prey: Episode 7...fail, continue with next event...
+
+scrapping data for Lidoma Esports - Reborn 2023 #2...done
+scrapping 1
+scrapping data for Challengers 2023 DACH: Arcade...done
+scrapping data for Crossfire Cup 2023...fail, continue with next event...
+
+scrapping data for Red Bull Home Ground #4...error occurs
+error occurs
+fail, continue with next event...
+
+scrapping data for VALORANT East: United: Season 2: Stage 3 - League...done
+scrapping data for Game Changers 2023 Japan: Split 2...done
+scrapping data for Game Changers 2023 Stage III: EMEA...done
+scrapping data for Game Changers 2023 Brazil: Series 2...done
+scrapping data for China Evolution Series Act 1: Variation...fail, continue with next event...
+
+scrapping data for Intel Arabian Cup Playground 2023: Season 2...fail, continue with next event...
+
+scrapping data for VALORANT MENA Al Majd - Series 3...fail, continue with next event...
+
+scrapping data for Game Changers 2023 LATAM: Finals...done
+scrapping data for Project V: Project Queens - Split 3 Finals...done
+scrapping data for Claro Gaming Spike Cup - Clausura...done
+scrapping data for Project V 2023: Split 2 Finals...done
+scrapping data for HUE Invitational 2023...fail, continue with next event...
+
+scrapping data for Super Girl Gamer Pro - Summer 2023: Championships...fail, continue with next event...
+
+scrapping data for Grunex Challenge #3...error occurs
+done
+scrapping data for Rising Stars Showdown #1...done
+scrapping data for KCX3: Karmine Corp vs. The World...fail, continue with next event...
+
+scrapping data for Project V 2023: OrcusV2 QUEENS...fail, continue with next event...
+
+scrapping data for GAMEON VALORANT Tournament...done
+scrapping data for Resistance Cup by G-SHOCK...done
+scrapping data for Sakura Cup: September...fail, continue with next event...
+
+scrapping data for Taça das Minas #5...done
+scrapping data for NRG Neon Dream Invitational 2023...fail, continue with next event...
+
+scrapping data for Insomnia 71 iSeries Challenge...done
+scrapping data for Game Changers 2023 Korea: Stage 2...done
+scrapping data for Intel Gamers Day: ROG Lan Fest - Mumbai...fail, continue with next event...
+
+scrapping data for Rebels #3...done
+scrapping data for Mystic Singularity Series #8...fail, continue with next event...
+
+scrapping data for Game Changers 2023 Asia Pacific: Last Chance Qualifier...error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+done
+scrapping data for Asia Esports Festival 2023...fail, continue with next event...
+
+scrapping data for Golden Goose #14...fail, continue with next event...
+
+scrapping data for Asia Esports Championship 2023...done
+scrapping data for Knights Monthly Gauntlet 2023: August...error occurs
+error occurs
+done
+scrapping data for Game Changers 2023 LATAM: Last Chance Qualifier...done
+scrapping data for Sakura Cup: August...fail, continue with next event...
+
+scrapping data for EMG Series: South Asia...fail, continue with next event...
+
+scrapping data for Valorant Champions 2023...done
+scrapping data for EMG Series: Middle East and North Africa...fail, continue with next event...
+
+scrapping data for Arab Esports League 2023...done
+scrapping data for KING OF THE HILL #1...fail, continue with next event...
+
+scrapping data for Collegiate VAL Hub: Summer Showdown Finals...done
+scrapping data for Nerd Street VALORANT Lockdown 2 - Finals...fail, continue with next event...
+
+scrapping data for Game Changers EMEA Contenders Series 2...done
+scrapping data for Nerd Street VALORANT Lockdown 2 - Last Chance Qualifier...done
+scrapping data for Game Changers 2023 Series II: North America...error occurs
+done
+scrapping data for Gamers Club - Elite Cup 2023...fail, continue with next event...
+
+scrapping data for Mystic Singularity Series #7...error occurs
+done
+scrapping data for Lidoma Esports - Reborn 2023...done
+scrapping data for Game Changers 2023 Stage II: EMEA...done
+scrapping data for Game Changers 2023 Korea: Stage 1...done
+scrapping data for Game Changers 2023 Japan: Split 1...done
+scrapping data for Game Changers 2023 Asia Pacific: Open 3...error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+error occurs
+done
+scrapping data for EPIC.LAN #39...done
+scrapping data for Return of The Titans - NATURE...done
+scrapping data for VALORANT MENA Al Majd - Series 2...fail, continue with next event...
+
+scrapping data for Champions Tour 2023: Americas Last Chance Qualifier...done
+scrapping data for Imperium Elite Series 1...fail, continue with next event...
+
+scrapping data for Champions Tour 2023: EMEA Last Chance Qualifier...done
+scrapping data for Champions Tour 2023: Pacific Last Chance Qualifier...done
+scrapping data for Golden Goose #13...fail, continue with next event...
+
+scrapping data for Project V: Project Queens - Split 2 Finals...done
+scrapping data for LPL Summer Cup Legends 2023...done
+scrapping data for Champions Tour 2023 EMEA: Ascension...fail, continue with next event...
+
+scrapping data for Project V Division 1 - Split 2: Stage 1...error occurs
+done
+scrapping data for TGH x Birds of Prey: Episode 6...fail, continue with next event...
+
+scrapping data for Champions Tour 2023: Champions China Qualifier...done
+scrapping data for Knights Monthly Gauntlet 2023: July...fail, continue with next event...
+
+scrapping data for Sakura Cup: July...fail, continue with next event...
+
+scrapping data for Champions Tour 2023 Pacific: Ascension...done
+scrapping data for Trinity Trials - Summer Trial...done
+scrapping data for DreamHack Valencia 2023...fail, continue with next event...
+
+scrapping data for Champions Tour 2023 Americas: Ascension...done
+scrapping data for Amazon University Esports Masters 2023...done
+scrapping data for Puchar Sławy #2...done
+scrapping data for Skulls Exordium Cup...done
+scrapping data for Saudi eLeagues 2023: Season 1...done
+scrapping data for Return of The Titans - RAIN...done
+scrapping data for Golden Goose #12...fail, continue with next event...
+
+scrapping data for Knights Monthly Gauntlet 2023: June...done
+scrapping data for Valorant National League 2023-1...done
+scrapping data for Challengers League Italy Rinascimento: Relegation...done
+scrapping data for Challengers League East: Surge Promotion Cup...done
+scrapping data for Rebels #2...done
+scrapping data for Mystic Singularity Series #6...fail, continue with next event...
+
+scrapping data for Sakura Cup: June...done
+scrapping data for DGWIB Valorant Season 3...done
+scrapping data for Champions Tour 2023: Masters Tokyo...done
+scrapping data for Open Air Esports ninexT RISE...done
+scrapping data for Challengers League LATAM South FiRe: Relegation...done
+scrapping data for Challengers League LATAM North ACE: Relegation...done
+scrapping data for GroundZero x Outlast Invitational...done
+scrapping data for Circuito Tormenta Italy - Blooming Talents League...done
+scrapping data for Golden Goose #11...fail, continue with next event...
+
+scrapping data for St. Petersburg Governor's Cup Valorant - Superfinal 2023...fail, continue with next event...
+
+scrapping data for NECC Valorant Nationals - Champions...done
+scrapping data for IGLeague Open Division #2...done
+scrapping data for Challengers League LATAM: Finals...done
+scrapping data for Nerd Street VALORANT Lockdown 2 - Resurrection Qualifier...done
+scrapping data for Norwegian Valorant League...error occurs
+done
+scrapping data for Game Changers 2023 Asia Pacific: Open 2...error occurs
+error occurs
+error occurs
